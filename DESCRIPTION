@@ -1,0 +1,16 @@
+Package: FinancialMath
+Type: Package
+Title: Financial Mathematics for Actuaries
+Version: 0.1.0
+Authors@R: c(person("Kameron", "Penn", email = "rfinancialmathpkg@gmail.com",role = c("aut", "cre")),person("Jack", "Schmidt", email = "rfinancialmathpkg@gmail.com",role = "aut"))
+Author: Kameron Penn [aut, cre],
+    Jack Schmidt [aut]
+Maintainer: Kameron Penn <rfinancialmathpkg@gmail.com>
+Description: Contains financial math functions and introductory derivative functions included in the Society of Actuaries and Casualty Actuarial Society 'Financial Mathematics' exam, and some topics in the 'Models for Financial Economics' exam.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Packaged: 2016-12-13 00:32:02 UTC; Kameron
+Repository: CRAN
+Date/Publication: 2016-12-13 07:56:47
